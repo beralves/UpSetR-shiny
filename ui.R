@@ -9,7 +9,7 @@ shinyUI(navbarPage(
       6,
       sidebarLayout(
         sidebarPanel(
-          h2("Welcome to the UpSetR Shiny App!"),
+          h2("Welcome to the UpSetR Shiny App 2!"),
           br(),
           tags$p(HTML(
             "UpSetR generates static <a href=\"http://vcg.github.io/upset/?dataset=0&duration=1000&orderBy=subsetSize&grouping=groupByIntersectionSize&selection=\">UpSet plots</a>.
